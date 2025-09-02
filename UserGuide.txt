@@ -1,0 +1,10 @@
+Welcome to ZTypeGame!
+
+ZType is a typing game where you must type the words displayed on the screen quickly to destroy 
+them before they reach the bottom of the screen. 
+
+Once you start typing a word on the screen you will have to type the rest of the character 
+in the word to destroy it. Once you destroy a word you can start destroying another! After 
+you reach a certain score you will move on to the next level. This transition will be indicated 
+with a "next level" screen. Each level will make the game harder. You will need more points to 
+progress and words will spawn more frequently! And don't worry if you lose you can always try again!
